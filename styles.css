@@ -1,0 +1,21 @@
+body{background-color:#F5EFE6;
+}
+
+hr{border-style:none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 4px;
+  width: 5%;
+}
+
+h1{color: #66BFBF;}
+h2{color: #66BFBF;
+    text-decoration:underline;
+}
+h3{color: #66BFBF;
+    text-shadow: 2px 2px 4px burlywood;
+}
+
+img{
+  height: 200px;
+}
